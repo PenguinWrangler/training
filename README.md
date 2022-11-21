@@ -6,5 +6,5 @@
 - folders and notes will be added here from training courses taken
 - attemping to make all notes in markdown for easier viewing on the web
 
-## Index
+## Quick Links
 [Dell Training](https://github.com/PenguinWrangler/training/tree/main/Dell_Training)
